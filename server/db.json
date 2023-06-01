@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Clifford",
+    "species": "Dog",
+    "color": "red",
+    "size": "big",
+    "age": 3
+  },
+  {
+    "id": 2,
+    "name": "Fish",
+    "species": "fish",
+    "color": "Gold",
+    "size": "x-small",
+    "age": 1
+  }
+]
